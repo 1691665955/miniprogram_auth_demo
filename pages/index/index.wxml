@@ -1,0 +1,4 @@
+<!--index.wxml-->
+<view class="container">
+  <button bindtap="getAuth">获取摄像头权限</button>
+</view>
